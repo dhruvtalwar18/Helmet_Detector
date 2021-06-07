@@ -51,7 +51,7 @@ Using these trained weights we can thus make the detections.
 <br>
 
 
-<p><img align ="left" src="https://github.com/dhruvtalwar18/Helmet_Detector/blob/main/Images/Test_1.jpeg" title="Test Image 1" width = "450"  ><img align ="right" src="https://github.com/dhruvtalwar18/Helmet_Detector/blob/main/Images/Result_1.jpeg" title="Create mission mode" width = "450" ></p><br><br><br><br><br><br><br><br>
+<p><img align ="left" src="https://github.com/dhruvtalwar18/Helmet_Detector/blob/main/Images/Test_1.jpeg" title="Test Image 1" width = "375"  ><img align ="right" src="https://github.com/dhruvtalwar18/Helmet_Detector/blob/main/Images/Result_1.jpeg" title="Create mission mode" width = "375" ></p><br><br><br><br><br><br><br><br>
 <br><br><br>
 <p align="center">Fig.2  Test Image 1 and the generated detection result</p><br>
 <br>
