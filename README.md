@@ -45,7 +45,7 @@ Using these trained weights we can thus make the detections.
 
 <h1><b> Results </h1></b>
 
-<p><img align = "left" src="https://github.com/dhruvtalwar18/Helmet_Detector/blob/main/Results/Test_1.gif" title="Result 1" width =" 350" height = "250"><img align = "right" src="https://github.com/dhruvtalwar18/Helmet_Detector/blob/main/Results/Test_2.gif" title="Result 1" width =" 350" height = "250"></p><br><br><br>
+<p><img align = "left" src="https://github.com/dhruvtalwar18/Helmet_Detector/blob/main/Results/Test_1.gif" title="Result 1" width =" 370" height = "250"><img align = "right" src="https://github.com/dhruvtalwar18/Helmet_Detector/blob/main/Results/Test_2.gif" title="Result 1" width =" 375" height = "250"></p><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
 <p align="center">Fig.1 Model Outputs on stock videos </p><br>
 <br>
@@ -57,7 +57,7 @@ Using these trained weights we can thus make the detections.
 <br>
 
 
-<p><img align ="left" src="https://github.com/dhruvtalwar18/Helmet_Detector/blob/main/Images/test_2.jpeg" title="Test Image 2" width = "450" height ="250"  ><img align ="right" src="https://github.com/dhruvtalwar18/Helmet_Detector/blob/main/Images/result_2.jpeg" title="Create mission mode" width = "450" ></p><br><br><br><br><br><br><br><br>
+<p><img align ="left" src="https://github.com/dhruvtalwar18/Helmet_Detector/blob/main/Images/test_2.jpeg" title="Test Image 2" width = "380" height ="250"  ><img align ="right" src="https://github.com/dhruvtalwar18/Helmet_Detector/blob/main/Images/result_2.jpeg" title="Create mission mode" width = "380" ></p><br><br><br><br><br><br><br><br>
 <br><br><br>
 <p align="center">Fig.2  Test Image 2 and the generated detection result</p><br>
 <br>
