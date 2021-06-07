@@ -45,7 +45,9 @@ Using these trained weights we can thus make the detections.
 
 <h1><b> Results </h1></b>
 
-<p align="center"><img src="https://github.com/dhruvtalwar18/Helmet_Detector/blob/main/Results/Test_1.gif" title="Result 1"></p>
+<p align="left"><img src="https://github.com/dhruvtalwar18/Helmet_Detector/blob/main/Results/Test_1.gif" title="Result 1" width =" 400" height = "250"></p>
 <p align="center">Fig.1 Model output 1</p>
+
+
 
 
